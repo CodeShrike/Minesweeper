@@ -44,7 +44,7 @@ This is a Java-based implementation of the classic Minesweeper game made in my s
    ```
 2. Run the main class:
    ```bash
-   java GameBoard
+   java Driver
    ```
 3. The game board will appear in a new window. Start playing by left-clicking or right-clicking squares!
 
